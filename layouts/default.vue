@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 <template>
   <div>
     <Navbar />
@@ -6,6 +7,7 @@
 </template>
 
 <script>
+/* eslint-disable prettier/prettier */
 import Navbar from '~/components/Navbar'
 
 export default {

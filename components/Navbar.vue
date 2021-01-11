@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 <template>
   <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
@@ -48,6 +49,7 @@
 </template>
 
 <script>
+/* eslint-disable prettier/prettier */
 import { mapGetters } from 'vuex'
 
 export default {

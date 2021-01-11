@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 <template>
   <section class="section">
     <div class="container">
@@ -62,6 +63,7 @@
 </template>
 
 <script>
+/* eslint-disable prettier/prettier */
 import Notification from '~/components/Notification'
 
 export default {

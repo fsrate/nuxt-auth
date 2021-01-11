@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 <template>
   <svg
     class="NuxtLogo"

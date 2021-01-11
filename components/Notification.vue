@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 <template>
   <div :class="`is-${type}`" class="notification">
     {{ message }}
@@ -5,6 +6,7 @@
 </template>
 
 <script>
+/* eslint-disable prettier/prettier */
 export default {
   name: 'Notification',
   props: {
